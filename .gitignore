@@ -1,0 +1,24 @@
+runs
+video
+data
+yolov8x.pt
+check.py
+_outputs
+.vscode/
+params.py
+
+# macOS
+**/.DS_Store
+
+# sublime text project files
+*.sublime-project
+*.sublime-workspace
+
+# Python files
+*/__pycache__
+*.pyc
+*.egg-info/
+
+# Instance specific files
+config
+secret
