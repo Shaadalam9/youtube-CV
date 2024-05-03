@@ -21,3 +21,6 @@ _outputs
 # Instance specific files
 config
 secret
+
+# Ignore my venv
+venv/

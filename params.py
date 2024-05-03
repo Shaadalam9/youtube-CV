@@ -1,4 +1,4 @@
-input_csv_file = "mapping.csv"
+input_csv_file = "test_mapping.csv"
 output_path = "video"
 
 prediction_mode = False
