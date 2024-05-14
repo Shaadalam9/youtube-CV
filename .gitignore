@@ -24,3 +24,6 @@ secret
 
 # Ignore my venv
 venv/
+
+# Ignore weights of model of vehicle_distance-master
+yolo_weights.h5
