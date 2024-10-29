@@ -56,6 +56,8 @@ def logs(
     logging.addLevelName(5, "VERBOSE")
     logger_root.setLevel(5)
 
+
+        # please add debug steps 
     if show_level and show_color:
         try:
             import coloredlogs
